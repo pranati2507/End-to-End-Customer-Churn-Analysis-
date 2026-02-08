@@ -1,6 +1,10 @@
+<div align="center">
+
 # 📊 End-to-End Customer Churn Analysis  
-### Customer Churn and Retention Intelligence
-SQL | Power BI | Python | Machine Learning
+### Customer Churn and Retention Intelligence  
+**SQL | Power BI | Python | Machine Learning**
+
+</div>
 
 ---
 
