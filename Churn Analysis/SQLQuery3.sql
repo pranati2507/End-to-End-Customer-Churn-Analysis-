@@ -1,0 +1,1 @@
+Select * from Stage_churn
