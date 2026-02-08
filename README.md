@@ -1,4 +1,5 @@
 # 📊 End-to-End Customer Churn Analysis  
+### Customer Churn and Retention Intelligence
 SQL | Power BI | Python | Machine Learning
 
 ---
@@ -82,5 +83,4 @@ This project is designed to be **portfolio-ready and evaluation-friendly**.
 ## 🚀 Conclusion
 This project demonstrates the application of **data analytics and machine learning** to solve a real-world business problem.  
 It combines data engineering, visualization, and predictive modeling to generate actionable churn insights.
-This project demonstrates the application of **data analytics and machine learning** to solve a real-world business problem.  
-It combines data engineering, visualization, and predictive modeling to generate actionable churn insights.
+
