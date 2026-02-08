@@ -55,7 +55,7 @@ This project is designed to be **portfolio-ready and evaluation-friendly**.
 ---
 
 ## 📈 Power BI Dashboard Preview
-![Power BI Dashboard](dashboard.png)
+![Customer Churn Dashboard](dashboard.png)
 
 ---
 
